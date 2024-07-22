@@ -1,0 +1,16 @@
+.roboto {
+  font-family: "Roboto",sans-serif !important;
+}
+.gradient{
+  background: linear-gradient(to right, #67CCD1 29% , #BC9AF4 50%,#67CCD1 70%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.tableHeader th {
+  background-color: #BC9AF4 !important;
+  color: white !important;
+}
+.cyan{
+  color: #67CCD1;
+}
